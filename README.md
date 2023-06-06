@@ -1,1 +1,2 @@
 # OIBSIP-WebD
+This repository contains my web development internship at Oasis Infobytes,It has been an enriching and transformative experience. It has equipped me with practical skills, deepened my understanding of web development principles, and instilled a passion for creating meaningful and impactful digital experiences. I am excited to continue my journey in the field, applying the knowledge and experiences gained during this internship to drive innovation and make a positive impact.
